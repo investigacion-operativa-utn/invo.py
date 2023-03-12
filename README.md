@@ -16,10 +16,11 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 - Winston, W. L., & Goldberg, J. B. (2004). Operations research: applications and algorithms (Vol. 3). Belmont: Thomson Brooks/Cole.
 
 ## Contenido:
+*Referencias: :black_circle: Teoría - :large_blue_circle: Práctica - :red_circle: Soporte y Casos*
 
 | Tema | Tipo | Título | Recursos |
 |:---|:---|:---|:---|
-| | | :rocket: ***CLASE 00*** :rocket: | |
+| | | :rocket: ***CLASE 00*** | |
 | Introducción | :black_circle:T | Introducción a Investigación Operativa | [Presentación](https://github.com/investigacion-operativa-utn/invo.py/blob/main/introduccion_repaso/teoria/TEO_introduccion-io.pdf) |
 | Repaso | :large_blue_circle:P | Repaso de probabilidad y matrices | |
 | Repaso | :large_blue_circle:P | Ejercicios ejemplo de probabilidad | [Presentación](https://github.com/investigacion-operativa-utn/invo.py/blob/main/introduccion_repaso/practica/PRA_repaso-probabilidad/repaso-probabilidad_presentaci%C3%B3n.pdf) - [Notebook](https://github.com/investigacion-operativa-utn/invo.py/blob/main/introduccion_repaso/practica/PRA_repaso-probabilidad/repaso-probabilidad_notebook.ipynb) |
