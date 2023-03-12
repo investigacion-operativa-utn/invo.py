@@ -7,8 +7,8 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 🤖 **Juan Ignacio Purita**, Ayudante (✉ jpurita@frba.utn.edu.ar)
 
 ## Recursos generales:
-- [Guía de ejercicios]()
-- [Guía de instalación de python]()
+- [Guía de ejercicios](https://github.com/investigacion-operativa-utn/invo.py/blob/main/general/PRA_guia-ejercicios-palazzo.pdf)
+- [Guía de instalación de python](https://github.com/investigacion-operativa-utn/invo.py/blob/main/recursos_python/instalar_python_jupyter.pdf)
 
 ## Bibliografía:
 - Hillier, F. S., & Price, C. C. (2001). International Series in Operations Research & Management Science.
@@ -18,16 +18,16 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 ## Contenido:
 
 ### :rocket: Clase 00
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
-| Introducción | :black_circle: Teoría | Introducción a Investigación Operativa, probabilidad y distribuciones | [Presentación]() |
+| Introducción | :black_circle: Teoría | Introducción a Investigación Operativa | [Presentación](https://github.com/investigacion-operativa-utn/invo.py/blob/main/introduccion_repaso/teoria/TEO_introduccion-io.pdf) |
 | Repaso | :large_blue_circle: Práctica | Repaso de probabilidad y matrices | |
-| Repaso | :large_blue_circle: Práctica | Ejercicios ejemplo de probabilidad | [Presentación]() - [Notebook]() |
-| Python | :red_circle: Soporte | Introducción a Python | [Presentación]() |
-| Repaso | :large_blue_circle: Práctica | Guía de ejercicios de repaso | |
+| Repaso | :large_blue_circle: Práctica | Ejercicios ejemplo de probabilidad | [Presentación](https://github.com/investigacion-operativa-utn/invo.py/blob/main/introduccion_repaso/practica/PRA_repaso-probabilidad/repaso-probabilidad_presentaci%C3%B3n.pdf) - [Notebook](https://github.com/investigacion-operativa-utn/invo.py/blob/main/introduccion_repaso/practica/PRA_repaso-probabilidad/repaso-probabilidad_notebook.ipynb) |
+| Python | :red_circle: Soporte | Introducción a Python | [Presentación](https://github.com/investigacion-operativa-utn/invo.py/blob/main/recursos_python/introduccion-python.pdf) |
+| Repaso | :large_blue_circle: Práctica | Guía de ejercicios de repaso resueltos | [Apunte](https://github.com/investigacion-operativa-utn/invo.py/blob/main/introduccion_repaso/practica/TEMP_PRA_guia-ejercicios-resueltos.pdf) |
 
 ### :rocket: Clase 01
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Simulación | :black_circle: Teoría | Introducción a Simulación | |
 | Simulación | :black_circle: Teoría | Introducción a métodos de sampleo en simulación | [Presentación]() - [Notebook]() |
@@ -35,14 +35,14 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 | Repaso y Python | :red_circle: Soporte | Cálculo matricial en python | |
 
 ### :rocket: Clase 02
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Simulación | :black_circle: Teoría | Simulación | |
 | Simulación | :red_circle: Soporte | Sampleo de distribución exponencial | [Presentación]() - [Notebook]() |
 | Simulación | :large_blue_circle: Práctica | Ejercicio 02 |  |
 
 ### :rocket: Clase 03
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Cadenas de Markov | :black_circle: Teoría | Introducción a Cadenas de Markov | |
 | Cadenas de Markov | :large_blue_circle: Práctica | Ejercicio 03 | [Presentación]() - [Notebook]() |
@@ -50,19 +50,19 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 | Cadenas de Markov | :large_blue_circle: Práctica | Resultados Ejercicios de Markov | [Apunte]() |
 
 ### :rocket: Clase 04
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Cadenas de Markov | :black_circle: Teoría | Cadenas de Markov | |
 | Cadenas de Markov | :large_blue_circle: Práctica | Ejercicio 06 | |
 
 ### :rocket: Clase 05
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Cadenas de Markov | :black_circle: Teoría | Cadenas de Markov de parámetro continuo | |
 | Cadenas de Markov | :large_blue_circle: Práctica | Ejercicio 07 | [Presentación]() - [Notebook]() |
 
 ### :rocket: Clase 06
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Filas de espera | :black_circle: Teoría | Procesos de Nacimiento y Muerte, Filas de Espera M=1 | |
 | Probabilidad | :black_circle: Teoría | Ajuste paramétrico de distribuciones | #ToDo |
@@ -71,28 +71,28 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 | Filas de espera | :black_circle: Teoría | Apuntes teóricos de Filas de Espera | [Apunte]() |
 
 ### :rocket: Clase 07
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Filas de espera | :black_circle: Teoría | Filas de espera M>1 | |
 | Filas de espera | :large_blue_circle: Práctica | Ejercicio 03 |  |
 | Filas de espera | :black_circle: Teoría | Fórmulas en filas de espera | [Apunte]() |
 
 ### :rocket: Clase 08
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Filas de espera | :black_circle: Teoría | Análisis de sensibilidad en filas de espera | |
 | Filas de espera | :large_blue_circle: Práctica | Ejercicio 10 | |
 | Filas de espera | :red_circle: Soporte | Caso Carrefour | #ToDo |
 
 ### :rocket: Clase 09
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Redes de proyectos | :black_circle: Teoría | Introducción a redes de proyectos y CPM | |
 | Redes de proyectos | :large_blue_circle: Práctica | Ejercicio 01 | #ToDo |
 | Redes de proyectos | :black_circle: Teoría | Apunte de Redes de Proyectos | [Apunte]() |
 
 ### :rocket: Clase 10
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Redes de proyectos | :black_circle: Teoría | Método CPM, calendarío de fecha temprana y tardía | |
 | Redes de proyectos | :large_blue_circle: Práctica | Ejercicio 03 |  |
@@ -100,13 +100,13 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 | Redes de proyectos | :red_circle: Soporte | Implementación CPM | #ToDo |
 
 ### :rocket: Clase 11
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Redes de proyectos | :black_circle: Teoría | Método CPM y PERT | |
 | Redes de proyectos | :large_blue_circle: Práctica | Ejercicio 04 |  |
 
 
 ### :rocket: Clase 12 - Repaso
-| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:600px">Título</div> | <div style="width:200px">Recursos</div>
+| <div style="width:150px">Tema</div> | <div style="width:100px">Tema</div> | <div style="width:300px">Título</div> | <div style="width:200px">Recursos</div>
 |-|-|-|-|
 | Redes de proyectos | :large_blue_circle: Práctica | Ejercicio CPM de repaso | #ToDo |
