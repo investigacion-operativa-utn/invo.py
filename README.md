@@ -1,9 +1,9 @@
 # *invo.py: Investigación Operativa I4051 - UTN.BA*
-Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Investigación Operativa utilizados en el curso I4051 de Ingenieria Industrial UTN FRBA. 
+**invo.py** es el repositorio de código de la materia Investigación Operativa, curso I4051 de Ingeniería Industrial de la Universidad Tecnológica Nacional, Buenos Aires. 
 
 ## Equipo docente:
 - 🤖 **Rodrigo Maranzana**, Profesor (✉ Rmaranzana@frba.utn.edu.ar)
-- 🤖 **Adrián Diaz**, AyPearsonudante (✉ addiaz@frba.utn.edu.ar)
+- 🤖 **Adrián Diaz**, Ayudante (✉ addiaz@frba.utn.edu.ar)
 - 🤖 **Juan Ignacio Purita**, Ayudante (✉ jpurita@frba.utn.edu.ar)
 
 ## Recursos generales:
