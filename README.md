@@ -66,7 +66,7 @@
 | Filas | :black_circle:T | Apuntes teóricos de Filas de Espera | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/teoria/TEO_filas-de-espera-apunte.pdf) |
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 07*** | |
-| Filas | :black_circle:T | Filas de espera M>1 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/teoria/TEO_filas-de-espera-costeo.pdf) |
+| Filas | :black_circle:T | Filas de espera M>1 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/teoria/TEO_filas-de-espera-2/filas-de-espera-2.pdf) [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/teoria/TEO_filas-de-espera-2/filas-mms-ejemplo.ipynb)|
 | Filas | :large_blue_circle:P | Ejercicio 03 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/practica/PRA_ejercicio-filas-03/ejercicio_3.pdf) |
 | Filas | :black_circle:T | Fórmulas en filas de espera | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/teoria/TEO_hoja-de-formulas.pdf) |
 | - | - | -  | -  |
