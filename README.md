@@ -74,24 +74,23 @@
 | | | :rocket: ***CLASE 08*** | |
 | Filas | :black_circle:T | Análisis de sensibilidad en filas de espera | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/teoria/TEO_filas-de-espera-sensibilidad/sensibilidad-filas-espera.pdf) |
 | Filas | :large_blue_circle:P | Ejercicio 10 | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/practica/PRA_ejercicio-filas-10/filas_ejercicio10.pdf) [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/practica/PRA_ejercicio-filas-10/ioperativ_clase08_filas_ejercicio10_slides.pdf) |
-| Filas | :red_circle:S | Caso Carrefour | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/casos/CAS_caso-carrefour/ejercicio_integrador_carrefour.pdf) [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/casos/CAS_caso-carrefour/carrefour_ejemplo.ipynb) |
+| Filas | :red_circle:S | Caso Carrefour | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/casos/CAS_caso-carrefour/caso_carrefour.pdf) [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/casos/CAS_caso-carrefour/carrefour_ejemplo.ipynb) |
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 09*** | |
-| Proyectos | :black_circle:T | Introducción a redes de proyectos y CPM | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_intro-metodo-camino-critico.pdf) |
+| Proyectos | :black_circle:T | Introducción a redes de proyectos y CPM | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_intro-cpm/intro-cpm.pdf) |
+| Proyectos | :black_circle:T | Método CPM, calendarío de fecha temprana y tardía | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico.pdf) |
 | Proyectos | :large_blue_circle:P | Ejercicio 02 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicio-proyectos-02/ejercicio_2.pdf) |
+| Proyectos | :large_blue_circle:P | Implementación CPM en Python | [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/practica/PRA_cpm_algoritmo/CPM_algoritmo.ipynb) |
 | Proyectos | :black_circle:T | Apunte de Redes de Proyectos | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico-apunte-01.pdf) |
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 10*** | |
-| Proyectos | :black_circle:T | Método CPM, calendarío de fecha temprana y tardía | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico.pdf) |
+| Proyectos | :black_circle:T | Método CPM y PERT | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_PERT.pdf) |
 | Proyectos | :large_blue_circle:P | Ejercicio 03 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicios-proyectos-03/ejercicio_3.pdf) |
+| Proyectos | :large_blue_circle:P | Ejercicio 04 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicios-proyectos-04/ejercicio_4.pdf) |
 | Proyectos | :black_circle:T | Apunte PERT | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico-apunte-02.pdf) |
-| Proyectos | :red_circle:S | Implementación CPM | [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/casos/CAS_cpm_algoritmo_terminado/CPM_algoritmo.ipynb) |
+
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 11*** | |
-| Proyectos | :black_circle:T | Método CPM y PERT | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_PERT.pdf) |
-| Proyectos | :large_blue_circle:P | Ejercicio 04 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicios-proyectos-04/ejercicio_4.pdf) |
-| - | - | -  | -  |
-| | | :rocket: ***CLASE 12*** | |
 | Simulación | :large_blue_circle:P | Ejercicio Simulación de repaso | #TBD |
 | Markov | :large_blue_circle:P | Ejercicio Markov de repaso | #TBD |
 | Filas | :large_blue_circle:P | Ejercicio Filas de Espera de repaso | #TBD |
