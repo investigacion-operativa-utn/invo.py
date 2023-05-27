@@ -80,7 +80,7 @@
 | Proyectos | :black_circle:T | Introducción a redes de proyectos y CPM | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_intro-cpm/intro-cpm.pdf) |
 | Proyectos | :black_circle:T | Método CPM, calendarío de fecha temprana y tardía | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico.pdf) |
 | Proyectos | :large_blue_circle:P | Ejercicio 02 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicio-proyectos-02/ejercicio_2.pdf) |
-| Proyectos | :large_blue_circle:P | Implementación CPM en Python | [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/practica/PRA_cpm_algoritmo/CPM_algoritmo.ipynb) |
+| Proyectos | :large_blue_circle:P | Implementación CPM en Python | [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_cpm_algoritmo/CPM_algoritmo.ipynb) |
 | Proyectos | :black_circle:T | Apunte de Redes de Proyectos | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico-apunte-01.pdf) |
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 10*** | |
