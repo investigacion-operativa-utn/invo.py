@@ -89,7 +89,7 @@
 | Proyectos | :black_circle:T | Apunte PERT | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico-apunte-02.pdf) |
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 11*** | |
-| Simulación | :large_blue_circle:P | Ejercicio Simulación de repaso | #TBD |
+| Simulación | :large_blue_circle:P | Ejercicio Simulación de repaso | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/simulacion/practica/PRA_ejercicio-repaso/repaso.pdf) |
 | Markov | :large_blue_circle:P | Ejercicio Markov de repaso | #TBD |
 | Filas | :large_blue_circle:P | Ejercicio Filas de Espera de repaso | #TBD |
 | Proyectos | :large_blue_circle:P | Ejercicio CPM de repaso | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicio-repaso/repaso.pdf) |
