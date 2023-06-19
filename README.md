@@ -90,6 +90,6 @@
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 11*** | |
 | Simulación | :large_blue_circle:P | Ejercicio Simulación de repaso | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/simulacion/practica/PRA_ejercicio-repaso/repaso.pdf) |
-| Markov | :large_blue_circle:P | Ejercicio Markov de repaso | #TBD |
+| Markov | :large_blue_circle:P | Ejercicio Markov de repaso | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/markov/practica/PRA_ejercicio-markov-repaso/repaso.pdf) |
 | Filas | :large_blue_circle:P | Ejercicio Filas de Espera de repaso | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/filas_de_espera/practica/PRA_ejercicio-filas-repaso/repaso.pdf) |
 | Proyectos | :large_blue_circle:P | Ejercicio CPM de repaso | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicio-repaso/repaso.pdf) |
