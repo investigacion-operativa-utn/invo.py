@@ -3,8 +3,8 @@
 
 ## Equipo docente:
 - 🤖 **Rodrigo Maranzana**, Profesor (✉ Rmaranzana@frba.utn.edu.ar)
-- 🤖 **Adrián Diaz**, Ayudante (✉ addiaz@frba.utn.edu.ar)
-- 🤖 **Juan Ignacio Purita**, Ayudante (✉ jpurita@frba.utn.edu.ar)
+- 🤖 **Luciano Martín De Doménico**, Ayudante (✉ ldedomenico@frba.utn.edu.ar)
+- 🤖 **Ariel Horowitz**, Ayudante (✉ ahorowitz@frba.utn.edu.ar)
 
 ## Recursos generales:
 - [Guía de ejercicios](https://github.com/investigacion-operativa-utn/invo.py/blob/main/general/PRA_guia-ejercicios-palazzo.pdf)
