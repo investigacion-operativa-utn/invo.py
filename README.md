@@ -152,3 +152,7 @@
 | Optimización | :large_blue_circle:P | Resuelto dual - Repaso (1) | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/optimizacion/practica/PRA_repaso-1/resuelto-dual.pdf)  |
 | | | :rocket: ***CLASE 26*** | |
 | Optimización | :large_blue_circle:P | Repaso (2) | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/optimizacion/practica/PRA_repaso-2/repaso-2.pdf) |
+
+## License
+
+This repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE.md). This license applies to all content in this repository, including all past, present, and future contributions.
