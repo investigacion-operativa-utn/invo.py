@@ -87,7 +87,7 @@
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 10*** | |
 | Proyectos | :black_circle:T | Redes de proyectos y PERT | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_pert/pert.pdf) |
-| Proyectos | :large_blue_circle:P | Ejercicio 03 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicios-proyectos-03/ejercicio_3.pdf) |
+| Proyectos | :large_blue_circle:P | Ejercicio 03 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicios-proyectos-03/ejercicios-proyectos-03.pdf) |
 | Proyectos | :large_blue_circle:P | Ejercicio 04 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicios-proyectos-04/ejercicio_4.pdf) |
 | Proyectos | :black_circle:T | Apunte PERT | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico-apunte-02.pdf) |
 | - | - | -  | -  |
