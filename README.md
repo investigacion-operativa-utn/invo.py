@@ -83,7 +83,6 @@
 | | | :rocket: ***CLASE 09*** | |
 | Proyectos | :black_circle:T | Redes de proyectos y método del camino crítico | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_cpm/cpm.pdf) |
 | Proyectos | :large_blue_circle:P | Ejercicio 02 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicio-proyectos-02/ejercicio02-proyectos.pdf) |
-| Proyectos | :large_blue_circle:P | Implementación CPM en Python | [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_cpm_algoritmo_python/CPM_algoritmo.ipynb) |
 | Proyectos | :black_circle:T | Apunte de redes de proyectos | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico-apunte-01.pdf) |
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 10*** | |
@@ -91,6 +90,7 @@
 | Proyectos | :large_blue_circle:P | Ejercicio 03 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicios-proyectos-03/ejercicios-proyectos-03.pdf) |
 | Proyectos | :large_blue_circle:P | Ejercicio 04 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_ejercicios-proyectos-04/ejercicio_4.pdf) |
 | Proyectos | :black_circle:T | Apunte PERT | [![PDF - Apunte](https://img.shields.io/badge/PDF-Apunte-4a7d43?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/proyectos/teoria/TEO_metodo-camino-critico-apunte-02.pdf) |
+| Proyectos | :large_blue_circle:P | Implementación CPM en Python | [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/proyectos/practica/PRA_cpm_algoritmo_python/CPM_algoritmo.ipynb) |
 | - | - | -  | -  |
 | | | :rocket: ***CLASE 11*** | |
 | Simulación | :large_blue_circle:P | Ejercicio simulación de repaso | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/simulacion/practica/PRA_ejercicio-repaso/repaso.pdf) |
