@@ -142,17 +142,21 @@
 | | | :rocket: ***CLASE 23*** | |
 | Inventarios | :black_circle:T | Introducción a modelos de optimización de inventarios | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/inventarios/teoria/TEO_intro-inventarios/intro-inventarios.pdf) [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/inventarios/teoria/TEO_intro-inventarios/inventarios-monoproducto.ipynb) |
 | Inventarios | :large_blue_circle:P | Ejercicio 1 | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/inventarios/practica/PRA_ejercicio-inventarios-01/ejercicio-inventarios-01.pdf) |
+| - | - | -  | -  |
 | | | :rocket: ***CLASE 24*** | |
 | Inventarios | :large_blue_circle:P | Ejercicio con escenarios | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/inventarios/practica/PRA_ejercicio-inventarios-escenarios.pdf) |
 | Inventarios | :large_blue_circle:P | Ejercicio: modelo EOQ multiproducto | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/inventarios/practica/PRA_ejercicio-inventario-multiproducto/ejercicio-inventario-multiproducto.pdf) [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/inventarios/practica/PRA_ejercicio-inventario-multiproducto/ejercicio-inventario-multiproducto.ipynb) |
 | Inventarios | :large_blue_circle:P | Ejercicio 4: optimización de inventarios con costos escalonados | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/inventarios/practica/PRA_ejercicio-inventarios-costos-escalonados/ejercicio-inventarios-costos-escalonados.pdf) |
 | Inventarios | :black_circle:T | Optimización de inventarios con restricciones de espacio | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/inventarios/teoria/TEO_inventarios-restricciones/inventarios-restricciones.pdf)  |
+| - | - | -  | -  |
 | | | :rocket: ***CLASE 25*** | |
 | Inventarios | :large_blue_circle:P | Ejercicio: inventarios con restricción de espacio | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/inventarios/practica/PRA_ejercicio-inventarios-restriccion-espacio/ejercicio-inventarios-restriccion-espacio.pdf) [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/investigacion-operativa-utn/invo.py/blob/main/inventarios/practica/PRA_ejercicio-inventarios-restriccion-espacio/ejercicio-inventarios-restriccion-espacio.ipynb) |
 | Optimización | :large_blue_circle:P | Repaso (1) | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/optimizacion/practica/PRA_repaso-1/repaso-1.pdf)  |
 | Optimización | :large_blue_circle:P | Resuelto dual - Repaso (1) | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/optimizacion/practica/PRA_repaso-1/resuelto-dual.pdf)  |
+| - | - | -  | -  |
 | | | :rocket: ***CLASE 26*** | |
 | Optimización | :large_blue_circle:P | Repaso (2) | [![PDF - Slides](https://img.shields.io/badge/PDF-Slides-c13637?logo=google&logoColor=ffffff)](https://github.com/investigacion-operativa-utn/invo.py/blob/main/optimizacion/practica/PRA_repaso-2/repaso-2.pdf) |
+| - | - | -  | -  |
 
 ## License
 
