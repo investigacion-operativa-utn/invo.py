@@ -6,6 +6,9 @@
 - 🤖 **Luciano Martín De Doménico**, Ayudante (✉ ldedomenico@frba.utn.edu.ar)
 - 🤖 **Ariel Horowitz**, Ayudante (✉ ahorowitz@frba.utn.edu.ar)
 - 🤖 **Joaquín Tobías Sapia**, Ayudante (✉ jsapia@frba.utn.edu.ar)
+- 🤖 **María Dolores Ramos**, Ayudante (✉ marramos@frba.utn.edu.ar)
+- 🤖 **Franco Heredia**, Ayudante (✉ fheredia@frba.utn.edu.ar)
+- 🤖 **Tadeo Sinay**, Ayudante (✉ tsinay@frba.utn.edu.ar)
 
 ## Recursos generales:
 - [Guía de ejercicios](https://github.com/investigacion-operativa-utn/invo.py/blob/main/general/PRA_guia-ejercicios-palazzo.pdf)
